@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is Git and why is it useful in research?",
+    "response": "Git is a version control system that helps track changes in files. In research, it ensures reproducibility, documents development history, and facilitates collaboration."
+  },
+  {
+    "prompt": "How do I initialize a Git repository?",
+    "response": "You can initialize a Git repository by running 'git init' in the terminal inside your project folder."
+  },
+  {
+    "prompt": "What does 'git status' show?",
+    "response": "'git status' displays the state of the working directory and staging area, showing which changes have been staged, which haven't, and which files aren't being tracked by Git."
+  },
+  {
+    "prompt": "How do I save my changes to the Git history?",
+    "response": "First, stage your changes with 'git add <filename>' or 'git add .', then commit them with 'git commit -m \"Your message\"'."
+  },
+  {
+    "prompt": "Why do I need to use 'git add' before 'git commit'?",
+    "response": "'git add' tells Git which changes you want to include in the next commit. This allows you to control what goes into the project history."
+  },
+  {
+    "prompt": "I committed my changes, but they don't appear on GitHub. What did I miss?",
+    "response": "After committing locally, you need to push the changes to the remote repository with 'git push'."
+  },
+  {
+    "prompt": "How do I link my local Git repo to a GitHub repository?",
+    "response": "You can link your local repository to GitHub using 'git remote add origin <repo-URL>' and then push with 'git push -u origin main'."
+  },
+  {
+    "prompt": "What is a commit message and how should I write one?",
+    "response": "A commit message describes the change you're making. It should be concise and informative, e.g., 'Add metadata table for dataset XYZ'."
+  },
+  {
+    "prompt": "How can I see the history of changes in my repository?",
+    "response": "Use 'git log' to view a list of previous commits, including messages, authors, and timestamps."
+  },
+  {
+    "prompt": "What should I do if I made a mistake in my last commit?",
+    "response": "If you haven't pushed yet, you can amend the last commit with 'git commit --amend'. Be cautious if the commit is already pushed."
+  }
+]
