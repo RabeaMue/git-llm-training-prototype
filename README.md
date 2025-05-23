@@ -1,6 +1,10 @@
 # Git-LLM Project
 
-This project is a prototype for a personalized training system on Git, based on a question-answering approach using a local LLM with [LlamaIndex](https://www.llamaindex.ai/).
+> A reproducible prototype for personalized Git training using local LLMs (e.g. Phi) with LlamaIndex and Carpentries content.  
+> Developed with FAIR and open science principles in mind.
+
+⚠️ **This project is under active development.**  
+It is intended as an experimental prototype and not yet ready for production use. Contributions and feedback are welcome.
 
 ## Contents
 
