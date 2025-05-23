@@ -6,7 +6,7 @@ This project is a prototype for a personalized training system on Git, based on 
 
 - `llm-env/` – Virtual Python environment (do not modify manually)
 - `git_llm_training_data.json` – Example questions and answers based on the Library Carpentry Git lesson
-- `notebook.ipynb` – Interactive notebook with a simple retrieval-based system
+- `git_llm_prototype.ipynb` – Interactive notebook with a simple retrieval-based system
 
 ## Setup
 
