@@ -1,7 +1,7 @@
 # Git-LLM Project
 
-> A reproducible prototype for personalized Git training using local LLMs (e.g. Phi) with LlamaIndex and Carpentries content.  
-> Developed with FAIR and open science principles in mind.
+> A reproducible prototype for personalized RDM training using local LLMs (e.g. Phi) with LlamaIndex and Carpentries content.  
+> Demonstrated here with a Git-focused lesson. Developed with FAIR and open science principles in mind.
 
 ⚠️ **This project is under active development.**  
 It is intended as an experimental prototype and not yet ready for production use. Contributions and feedback are welcome.
@@ -47,3 +47,6 @@ This project and its contents are licensed under the [Creative Commons Attributi
 You are free to share and adapt the material, provided that you give appropriate credit.
 
 © 2025 Rabea Müller
+
+---
+This project builds on content from the Library Carpentry Git Lesson, available at https://librarycarpentry.org/lc-git/.
